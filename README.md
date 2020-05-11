@@ -42,7 +42,7 @@ go to Settings->Devices->Keyboard, then scroll to the bottom and hit the '+' ico
 
 Name the command:
 	
-	Name: Google it! (or whatever you want to call it)
+	Name: Googler (or whatever you want to call it)
 
 Set the path to the script:
 
