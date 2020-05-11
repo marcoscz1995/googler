@@ -36,7 +36,7 @@ This is because xclip will autimatically set the "primary selection buffer" in t
 
 	$ chmod +x googler
 
-7) set the keyboard shortcut
+7)set the keyboard shortcut
 
 go to Settings->Devices->Keyboard, then scroll to the bottom and hit the '+' icon to add new shortcut
 
