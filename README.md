@@ -48,7 +48,9 @@ Set the path to the script:
 
 	Command: /home/<your user name>/scripts/googler   (or the path to wherever you saved the script)
 
-Set the shortcut:enter the keyboard combo you desire. I chose Alt+1 so that I can highlight with my right hand on the mouse and execute with my left hand; I think this is the most efficient use of this script.
+Set the shortcut:
+
+enter the keyboard combo you desire. I chose Alt+1 so that I can highlight with my right hand on the mouse and execute with my left hand; I think this is the most efficient use of this script.
 
 8)put it in action
 
