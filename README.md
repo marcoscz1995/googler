@@ -14,7 +14,7 @@ This is because xclip will autimatically set the "primary selection buffer" in t
 
 	$ mkdir ~/scripts
 
-3)move into the scripts folder (I assume you are at the root directory) or wherever you house your bash scripts
+3)Move into the scripts folder (I assume you are at the root directory) or wherever you house your bash scripts
 
 	$ cd ~/scripts
 
