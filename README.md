@@ -10,7 +10,7 @@ This is because xclip will autimatically set the "primary selection buffer" in t
 	$ sudo apt-get install xclip
 
 
-2)create a directory for bash scripts if you dont already have one
+2)Create a directory for bash scripts if you dont already have one
 
 	$ mkdir ~/scripts
 
