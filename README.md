@@ -18,11 +18,11 @@ This is because xclip will autimatically set the "primary selection buffer" in t
 
 	$ cd ~/scripts
 
-4)make a bash script and call it googler (or whatever you want) using your editor of choice (I prefer gedit but nano is cool too)
+4)Make a bash script and call it googler (or whatever you want) using your editor of choice (I prefer gedit but nano is cool too)
 	
 	$ gedit googler
 
-5)add the following bash script to the file and save it
+5)Add the following bash script to the file and save it
 
 	#!/bin/bash
 	search=`xclip -o`
@@ -32,11 +32,11 @@ This is because xclip will autimatically set the "primary selection buffer" in t
 	done
 	xdg-open "http://www.google.com/search?q=$search"
 
-6)make the file executable
+6)Make the file executable
 
 	$ chmod +x googler
 
-7)set the keyboard shortcut
+7)Set the keyboard shortcut
 
 go to Settings->Devices->Keyboard, then scroll to the bottom and hit the '+' icon to add new shortcut
 
@@ -50,9 +50,9 @@ Set the path to the script:
 
 Set the shortcut:
 
-enter the keyboard combo you desire. I chose Alt+1 so that I can highlight with my right hand on the mouse and execute with my left hand; I think this is the most efficient use of this script.
+	Enter the keyboard combo you desire. I chose Alt+1 so that I can highlight with my right hand on the mouse and execute with my left hand; I think this is the most efficient use of this script.
 
-8)put it in action
+8)Put it in action
 
 just highlight any text and hit the keyboard shortcut you assigned to it and a new google chrome tab will open with your search results!
 
@@ -60,5 +60,5 @@ just highlight any text and hit the keyboard shortcut you assigned to it and a n
 
 10)Optional step
 
-you can change the search command in the script to search stack overflow only. This is left as an exercise to the reader ;)
+You can change the search command in the script to search stack overflow only. This is left as an exercise to the reader ;)
 
